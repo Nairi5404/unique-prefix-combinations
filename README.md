@@ -25,9 +25,8 @@ Items starting with the same letter (prefix) cannot be in the same combination.
 
 1. Clone the repository:
    ```bash
-     git clone https://github.com/Nairi5404/unique-prefix-combinations.git
-    ```
-   cd your-repo
+    git clone https://github.com/Nairi5404/unique-prefix-combinations.git
+    cd unique-prefix-combinations
 2. Install dependencies:
     npm install
 3. Set up .env file:
@@ -38,7 +37,7 @@ Items starting with the same letter (prefix) cannot be in the same combination.
     PORT=3000
 4: Start the server:
     npm start
-
+---
 
 
 
