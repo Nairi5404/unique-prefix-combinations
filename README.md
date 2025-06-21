@@ -20,6 +20,7 @@ Items starting with the same letter (prefix) cannot be in the same combination.
   "items": [1, 2, 1],
   "length": 2
 }
+```
 
 ### Getting Started
 
@@ -27,17 +28,23 @@ Items starting with the same letter (prefix) cannot be in the same combination.
    ```bash
     git clone https://github.com/Nairi5404/unique-prefix-combinations.git
     cd unique-prefix-combinations
+   ```
 2. Install dependencies:
+   ```bash
     npm install
-3. Set up .env file:
+   ```
+4. Set up .env file:
+   ```bash
     DB_HOST=localhost
     DB_USER=root
     DB_PASSWORD=your_password
     DB_NAME=combinations_db
     PORT=3000
+   ```
 4: Start the server:
+```bash
     npm start
----
+```
 
 
 
