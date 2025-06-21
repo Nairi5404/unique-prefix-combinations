@@ -25,7 +25,8 @@ Items starting with the same letter (prefix) cannot be in the same combination.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Nairi5404/unique-prefix-combinations.git
+     git clone https://github.com/Nairi5404/unique-prefix-combinations.git
+    ```
    cd your-repo
 2. Install dependencies:
     npm install
