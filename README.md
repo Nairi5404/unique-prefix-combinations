@@ -21,7 +21,7 @@ Items starting with the same letter (prefix) cannot be in the same combination.
   "length": 2
 }
 
-## Getting Started
+### Getting Started
 
 1. Clone the repository:
    ```bash
